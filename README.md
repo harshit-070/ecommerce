@@ -1,7 +1,5 @@
 # e-commerce
 
-Ecommerce is the live [here](https://ecommerce0010.netlify.app)
-
 ## Installation and starting of frontend
 
 Please Go the frontend folder and then run
